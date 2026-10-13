@@ -1,0 +1,5 @@
+part_number,name,category,manufacturer,description,price,stock,low_stock_threshold,location
+LM7805,5V Voltage Regulator,IC,STMicroelectronics,"5V 1A linear regulator, TO-220",15,50,10,A3
+IRF540N,N-Channel MOSFET,Transistor,Infineon,"100V 33A power MOSFET, TO-220",45,25,5,B2
+LED-RED-5MM,Red LED 5mm,LED,Generic,"5mm red LED, 2V 20mA",1,300,50,E1
+ESP32-DEVKIT,ESP32 Dev Board,Module,Espressif,"WiFi + Bluetooth, 30-pin dev board",550,12,3,F1
